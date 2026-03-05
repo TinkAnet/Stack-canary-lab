@@ -1,6 +1,6 @@
 # writeup
 
-https://b4bop4.notion.site/Stack-Canary-Lab-271ef1925963809ca7e7cb053148c9e8
+[blog](https://www.bebop404.com/blog/stack-canary-lab)
 
 # pwn-ubuntu_20.04
 
